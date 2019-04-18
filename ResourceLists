@@ -33,7 +33,13 @@ A short resource list for Cyber Security beginners:
     Under the wire: http://www.underthewire.tech/wargames.htm
     
 -------------------------------------------CTF-----------------------------------------------------
-
+  
+  HandsOn:
+    CTF365:         https://ctf365.com/
+    HackTheBox:     https://HackTheBox.eu
+    SecDSM:         Meetings!
+    General Stuff:  https://www.vulnhub.com/
+  
   General Tools:
     Cyber Chef: https://gchq.github.io/CyberChef/#input=YTdkZGEzM2U2N2E0YTQKN2Y0OTA5NjgzYTViNDk
  
