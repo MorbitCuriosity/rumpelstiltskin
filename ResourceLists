@@ -1,0 +1,67 @@
+A short resource list for Cyber Security beginners:
+
+----------------------------------------NETWORKING-------------------------------------------------
+
+  Hands on:
+  List of Open Source Software for net sim:  http://www.brianlinkletter.com/open-source-network-simulators/
+
+  Reading:
+    "TCP/IP Guide " - No Starch
+    "Networking for dummies" -Douge Lowe (no really)
+    "Practical Packet Analysis, 3rd Edition" - No Starch
+    
+----------------------------------------LINUX-------------------------------------------------------
+
+  Hands on learning:
+    Over the wire:                 https://overthewire.org/wargames/
+    Hack the box:                  Hackthebox.eu
+    
+  CheatSheets:  
+    Tmux Cheat Sheet:              https://gist.github.com/MohamedAlaa/2961058
+  
+  Reading: 
+    No startch: 
+      How linux works 
+      Linux Firewalls
+      
+----------------------------------------WINDOWS----------------------------------------------------
+
+  Blue Teaming/Forensics: 
+    Windows security event ID's: https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+  
+  PowerShell: 
+    Under the wire: http://www.underthewire.tech/wargames.htm
+    
+-------------------------------------------CTF-----------------------------------------------------
+
+  General Tools:
+    Cyber Chef: https://gchq.github.io/CyberChef/#input=YTdkZGEzM2U2N2E0YTQKN2Y0OTA5NjgzYTViNDk
+ 
+ --------------------------------------RedTeaming-------------------------------------------------
+
+  Reading: 
+    "Building virtual pentesting labs for advanced penetration testing"
+    "Attacking Network Protocols" -No starch
+    
+    
+  Web Based: 
+  RedTeam Resources
+    Public Amazon Bucket search:   https://buckets.grayhatwarfare.com/
+    NTLM Capturuing and cracking:  https://shellgam3.com/2016/03/14/capturing-and-cracking-ntlmv2-hashes/
+    Useful Firefox plugins:        https://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/
+    Nmap CheatSheet:               https://pentestlab.blog/2012/08/17/nmap-cheat-sheet/
+    DNS enumeration in linus:      https://resources.infosecinstitute.com/dns-enumeration-techniques-in-linux/
+    DNS Recon:                     https://dnsdumpster.com/footprinting-reconnaissance/
+    Tons of Windows Exploiting:    https://lolbas-project.github.io/#
+    Windwos PrivEscs:              https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+    Attacking AD:                  https://github.com/infosecn1nja/AD-Attack-Defense
+    Bookmark collection:           https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-pentests-bookmarks-collection
+    MassScanner Repository:        https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-mass-scanners-search-engines
+    Windows Exploit Suggester:     https://github.com/bitsadmin/wesng
+    More Windows PrivEsc:          https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
+    Even More Windows PrivEsc:     http://www.fuzzysecurity.com/tutorials/16.html
+    PrivFile usage (privesc):      https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html
+    AutoPRivEsc Script:            https://raw.githubusercontent.com/enjoiz/Privesc/master/privesc.ps1
+      
+      
+      
